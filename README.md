@@ -1,5 +1,4 @@
-oh wow you can create a readme file for your profile
-uhhhh play Not For Broadcast it is a cool game
+C++ is hard I miss Python
 
 <!---
 Noel22222/Noel22222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
